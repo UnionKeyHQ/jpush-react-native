@@ -4,7 +4,7 @@
   "homepage": "https://github.com/UnionKeyHQ/jpush-react-native#readme",
   "main": "index.js",
   "types": "index.d.ts",
-  "license": "ISC",
+  "license": "MIT",
   "author": "wicked.tc130",
   "version": "2.9.2",
   "repository": {
